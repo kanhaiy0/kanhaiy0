@@ -1,5 +1,5 @@
 - 👋 Hello there,
-- I am Kanhaiya ,currently in 2nd year of my Btech majoring in MSE from IIT Kanpur.
+- I am Kanhaiya ,currently pursuing my Btech at IIT Kanpur.
 - I am interested in Machine Learning , Deep Learning, CV etc.
 - I write sometimes and Play Outdoor games.
 <!---
